@@ -1,2 +1,2 @@
 # Powershell-Basic-Command
- Powershell Cheat Sheet
+ Powershell Cheat Sheet reprenant les principales commandes Powershell
